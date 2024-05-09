@@ -8,3 +8,4 @@
 Ding prøver å blogge på github.
 Ding prøver Visual Studio Code for å gjøre en endring. (Nemlig denne setningen)
 
+[Ding CV](https://dingchen.no/cv)
