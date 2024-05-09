@@ -4,6 +4,7 @@
 
 [#2](2024-05-06-dingsandreblogg.md)
 
+[#3](test-formatering.md)
 
 Ding prøver å blogge på github.
 Ding prøver Visual Studio Code for å gjøre en endring. (Nemlig denne setningen)
