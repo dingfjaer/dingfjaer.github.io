@@ -1,4 +1,4 @@
-# dingfjaer.github.io
+# What does the fox say
 
 [#1 - Ding sin første blogg på github](2024-05-06-dingsinforstblogg.md)
 
