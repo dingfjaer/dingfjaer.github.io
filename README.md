@@ -6,6 +6,8 @@
 
 [#Jeg er allergisk mot å hente resept](2024-05-10-allergi.md)
 
+[#4](2024-05-10-test.md)
+
 Ding prøver å blogge på github.
 Ding prøver Visual Studio Code for å gjøre en endring. (Nemlig denne setningen)
 
