@@ -7,4 +7,8 @@
 Ding prøver å blogge på github.
 Ding prøver Visual Studio Code for å gjøre en endring. (Nemlig denne setningen)
 
+> [!HINT] Tester om hint-format funker. 
+
+
+
 [Ding CV](https://dingchen.no/cv)
